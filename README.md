@@ -1,6 +1,6 @@
 # Katherine Nicole R. Bayan | Portfolio
 
-Welcome to my portfolio repository! I'm a **Magna Cum Laude Computer Science graduate** (Specialization in Intelligent Systems) from De La Salle University - Dasmariñas. I enjoy turning raw data into clear, actionable insights through analysis, dashboards, and visualizations, and I'm eager to apply my technical and analytical skills in a data-driven team.
+Welcome to my portfolio repository! I'm a **Magna Cum Laude Computer Science graduate** (with Specialization in Intelligent Systems) from De La Salle University - Dasmariñas. I enjoy turning raw data into clear, actionable insights through analysis, dashboards, and visualizations, and I'm eager to apply my technical and analytical skills in a data-driven team.
 
 This repository is the central hub for my **Data Analytics** and **Software Development** work.
 
@@ -139,13 +139,29 @@ De La Salle University - Dasmariñas | 2021 - 2025
 
 ## Certifications
 
-- Python 101 for Data Science - Cognitive Class (August 2026)
-- Data Analytics Essentials - Cisco Networking Academy (April 2024)
-- Introduction to Data Science - Cisco Networking Academy (April 2024)
-- Microsoft Elective Course - De La Salle University - Dasmariñas (August 2023)
-- INCRIS: International Conference on Research Inclusivity and Sustainability - DLSU-D (April 2025, June 2022)
-- Leadership Training Summit - DLSU-D USG (April 2022)
+### Data Science, Analytics and Machine Learning
+- **Machine Learning with Python** | Cognitive Class (Oct 2026)
+- **Data Visualization with Python** | Cognitive Class (Sep 2026)
+- **SQL and Relational Databases 101** | Cognitive Class (Sep 2026)
+- **Python 101 for Data Science** | Cognitive Class (Aug 2026)
+- **Data Analytics Essentials** | Cisco Networking Academy (Apr 2024)
+- **Introduction to Data Science** | Cisco Networking Academy (Apr 2024)
 
+### Cybersecurity
+- **Endpoint Security** | Cisco Networking Academy (Dec 2023)
+- **Introduction to Cybersecurity** | Cisco Networking Academy (Sep 2023)
+
+### Leadership, Ethics and Professional Development
+- **Ethical Compass: Navigating Integrity in the Digital Age** | DLSU-D College of Science and Computer Studies Student Government (Apr 2024)
+- **Microsoft Elective Course** | De La Salle University - Dasmariñas (Aug 2023)
+- **USG Leadership Training Summit** | DLSU-D USG (Apr 2022)
+
+### Conferences, Competitions and Events
+- **INCRIS: International Conference on Research Inclusivity and Sustainability** | De La Salle University - Dasmariñas (Jun 2025)
+- **CONTRENDS: Conference on Technology and Research for National Development and Sustainability** | AARO DLSU-D (May 2023)
+- **CSlash IT: Leveling Up in the World of Cyber Realm** | CSIT Program Council (May 2023)
+- **INCRIS: International Conference on Research Inclusivity and Sustainability** | De La Salle University - Dasmariñas (Jun 2022)
+- **Codelympics 2022** | CSIT Program Council (Jun 2022)
 [Back to top](#katherine-nicole-r-bayan--portfolio)
 
 ---
