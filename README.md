@@ -150,8 +150,6 @@ Conducted a product availability and inventory analysis using ASOS product listi
 - Estimated a total stockout exposure proxy of **727,029.22**, calculated using listed product prices and the number of sold-out sizes. This represents potential exposure, not confirmed lost revenue.
 
 
-[Back to top](#katherine-nicole-r-bayan--portfolio)
-
 ## Contact
 
 I'm open to opportunities in data analytics and related fields. Feel free to reach out!
