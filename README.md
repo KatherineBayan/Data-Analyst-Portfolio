@@ -15,7 +15,7 @@ This repository is the central hub for my **Data Analytics** and **Software Deve
   - [Hardware and Tech Sales Performance Dashboard](#hardware-and-tech-sales-performance-dashboard)
   - [ASOS Product Analysis](#asos-product-analysis)
 - [Software Development Projects](#software-development-projects)
-  - [JOTTER~O: A MULTIMODAL AI DIARY COMPANION FOR SUPPORTING DLSU-D STUDENT’S WELL-BEING USING DEEP NEURAL NETWORKS](#jotter~o:-a-multimodal-ai-diary-companion-for-supporting-dlsu-d-students'-well-being-using-deep-neural-networks).
+  - [JOTTER~O: A MULTIMODAL AI DIARY COMPANION FOR SUPPORTING DLSU-D STUDENT’S WELL-BEING USING DEEP NEURAL NETWORKS](#jottero-a-multimodal-ai-diary-companion-for-supporting-dlsu-d-students-well-being-using-deep-neural-networks).
 - [Skills and Tools](#skills-and-tools)
 - [Education](#education)
 - [Experience Highlights](#experience-highlights)
