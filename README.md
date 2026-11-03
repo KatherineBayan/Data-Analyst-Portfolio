@@ -183,7 +183,7 @@ A selection of my software development projects, covering applications and progr
 More projects are available at [Software-Development-Portfolio](https://github.com/KatherineBayan/Software-Development-Portfolio)
 
 ### 📁 JOTTER~O: A MULTIMODAL AI DIARY COMPANION FOR SUPPORTING DLSU-D STUDENTS’ WELL-BEING USING DEEP NEURAL NETWORKS
-Read full at **Repository: ** [Jotter~O](https://github.com/KatherineBayan/JOTTER-O-A-MULTIMODAL-AI-DIARY-COMPANION-FOR-SUPPORTING-DLSU-D-STUDENTS-WELL-BEING-USING-DNN)
+Read full at **Repository:** [Jotter~O](https://github.com/KatherineBayan/JOTTER-O-A-MULTIMODAL-AI-DIARY-COMPANION-FOR-SUPPORTING-DLSU-D-STUDENTS-WELL-BEING-USING-DNN)
 
 Jotter~O is a multimodal AI diary companion designed to enhance the emotional well-being of De La Salle University-Dasmariñas (DLSU-D) students by integrating facial emotion recognition, speech recognition, and Natural Language Processing (NLP) sentiment analysis. By leveraging deep neural networks and combining facial emotion recognition with an accuracy of 86.24%, speech recognition powered by the VOSK API, and BART Transformer Model for sentiment analysis of the conversational AI with an accuracy of 94%, the AI diary companion understands how students feel through their facial expressions, voice, and written words, offering thoughtful and supportive responses in real-time. Based on the evaluation results, the system achieved a mean satisfaction rating of 86.24% final accuracy for Facial Recognition and 94% final accuracy for NLP (BART) sentiment analysis across usability, reliability, and emotional response accuracy metrics, demonstrating its effectiveness as a supportive and empathetic AI companion for students.
 
@@ -220,7 +220,7 @@ De La Salle University - Dasmariñas | 2021 - 2025
 
 ---
 
-## Experience Highlights
+## Experience
 
 **Freelance Data and Spreadsheet Specialist** | Self-Employed (Oct 2025 - Present)
 - Built incentive tracking sheets that automate commission calculations
