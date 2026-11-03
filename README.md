@@ -15,6 +15,7 @@ This repository is the central hub for my **Data Analytics** and **Software Deve
   - [Hardware and Tech Sales Performance Dashboard](#hardware-and-tech-sales-performance-dashboard)
   - [ASOS Product Analysis](#asos-product-analysis)
 - [Software Development Projects](#software-development-projects)
+  - [JOTTER~O: A MULTIMODAL AI DIARY COMPANION FOR SUPPORTING DLSU-D STUDENT’S WELL-BEING USING DEEP NEURAL NETWORKS](#jotter~o:-a-multimodal-ai-diary-companion-for-supporting-dlsu-d-students'-well-being-using-deep-neural-networks).
 - [Skills and Tools](#skills-and-tools)
 - [Education](#education)
 - [Experience Highlights](#experience-highlights)
@@ -72,11 +73,16 @@ An analysis of ASOS product data that explores product trends and patterns to ge
 
 ---
 
-## Software Development Projects
+## Featured Software Development Projects
 
-My software development work, covering applications and programming projects built throughout my Computer Science studies, is collected in a dedicated repository:
+A selection of my software development projects, covering applications and programming projects built throughout my Computer Science studies, is collected in a dedicated repository:
 
-**Repository:** [Software-Development-Portfolio](https://github.com/KatherineBayan/Software-Development-Portfolio)
+More projects are available at [Software-Development-Portfolio](https://github.com/KatherineBayan/Software-Development-Portfolio)
+
+### JOTTER~O: A MULTIMODAL AI DIARY COMPANION FOR SUPPORTING DLSU-D STUDENTS’ WELL-BEING USING DEEP NEURAL NETWORKS
+
+Jotter~O is a multimodal AI diary companion designed to enhance the emotional well-being of De La Salle University-Dasmariñas (DLSU-D) students by integrating facial emotion recognition, speech recognition, and Natural Language Processing (NLP) sentiment analysis. By leveraging deep neural networks and combining facial emotion recognition with an accuracy of 86.24%, speech recognition powered by the VOSK API, and BART Transformer Model for sentiment analysis of the conversational AI with an accuracy of 94%, the AI diary companion understands how students feel through their facial expressions, voice, and written words, offering thoughtful and supportive responses in real-time. Based on the evaluation results, the system achieved a mean satisfaction rating of 86.24% final accuracy for Facial Recognition and 94% final accuracy for NLP (BART) sentiment analysis across usability, reliability, and emotional response accuracy metrics, demonstrating its effectiveness as a supportive and empathetic AI companion for students.
+
 
 [Back to top](#katherine-nicole-r-bayan--portfolio)
 
