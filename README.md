@@ -19,6 +19,7 @@ Welcome to my data analytics portfolio projects repository!
 |---|---|
 | [Portfolio](https://github.com/KatherineBayan/Portfolio) | Main hub |
 | [Data Analyst Portfolio](https://github.com/KatherineBayan/Data-Analyst-Portfolio) | Data analysis, visualization, and dashboard projects (you are here) |
+| **[Data Analyst Portfolio](https://github.com/KatherineBayan/Data-Analyst-Portfolio)** | **Data analysis, visualization, and dashboard projects (you are here)** |
 | [Software Development Portfolio](https://github.com/KatherineBayan/Software-Development-Portfolio) | Software and programming projects |
 
 [Back to top](#katherine-nicole-r-bayan--portfolio)
