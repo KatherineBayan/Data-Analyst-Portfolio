@@ -51,7 +51,7 @@ Currently, I work as a **freelance data and spreadsheet specialist**, building i
 
 A selection of my dashboard and analysis work. More projects are available in the [Data Analyst Portfolio](https://github.com/KatherineBayan/Data-Analyst-Portfolio).
 
-### Coffee Sales Excel Dashboard
+### 📁 Coffee Sales Excel Dashboard
 Read full at **Repository:** [Coffee-Sales-Excel-Dashboard](https://github.com/KatherineBayan/Coffee-Sales-Excel-Dashboard)
 
 <img width="1498" height="783" alt="image" src="https://github.com/user-attachments/assets/2bba5527-de6b-4822-af4e-8fda4d33a2e7" />
@@ -90,17 +90,87 @@ Give a coffee retailer a single view of how the business is performing, so stake
 
 
 
-### Hardware and Tech Sales Performance Dashboard
+### 📁 Hardware and Tech Sales Performance Dashboard
+Read full at **Repository:** [Hardware-and-Tech-Sales-Performance-Dashboard](https://github.com/KatherineBayan/Hardware-and-Tech-Sales-Performance-Dashboard)
 
-An Excel dashboard that tracks and visualizes sales performance for hardware and tech products, helping surface insights on revenue, product performance, and sales patterns.
+<img width="1368" height="782" alt="image" src="https://github.com/user-attachments/assets/5c72a48d-bfda-4b26-a6d3-ff644db03995" />
 
-**Repository:** [Hardware-and-Tech-Sales-Performance-Dashboard](https://github.com/KatherineBayan/Hardware-and-Tech-Sales-Performance-Dashboard)
+#### Description
 
-### ASOS Product Analysis
+An interactive Excel dashboard that analyzes 2,000 orders of computer and IT products across 5 regions, 4 sales channels and 6 product categories in 2026. It opens with four KPI cards (Total Revenue, Total Orders, Total Quantity Sold, Average Order Value), followed by visuals for monthly revenue trend, top products, product category, sales channel and region. Year, quarter and month timelines plus slicers for customer type, region, sales channel and product category let users filter the whole dashboard with a click.
 
-An analysis of ASOS product data that explores product trends and patterns to generate meaningful, data-backed insights.
+#### Goal
 
-**Repository:** [ASOS-Product-Analysis](https://github.com/KatherineBayan/ASOS-Product-Analysis)
+Give sales leadership one place to monitor performance and answer key questions:
+
+- How much revenue is the business generating, and how does it move month to month?
+- Which products and categories drive the most revenue?
+- Which regions and channels perform best?
+- How much do new vs. returning customers contribute?
+
+#### Skills Used
+
+- **Data preparation:** Verified headers, date formats and missing values. The 2,000 records across 12 columns had no missing values.
+- **PivotTables and PivotCharts:** Built a supporting pivot for each KPI and chart, so every visual traces back to the data.
+- **KPI design:** Defined Total Revenue, Total Orders, Quantity Sold and Average Order Value (Revenue ÷ Orders).
+- **Interactivity:** Connected timelines (year, quarter, month) and slicers to all pivots at once.
+- **Visualization choices:** Matched chart type to the question: line for trend, bars for rankings, donut for channel share, columns for regional comparison.
+- **Dashboard design:** Used a consistent color theme, a filter panel on the left and a KPI-first layout with a “Date updated through” stamp.
+- **Business analysis:** Turned the metrics into insights and recommendations.
+
+#### Results
+
+- **Total revenue was $2.45M** from 2,000 orders and 5,552 units, with an **average order value of $1,226**.
+- **Computers drive the business.** Computers generate $1.35M (about 55% of revenue) from only 17% of orders. Together with Monitors ($527K), they make up about 76% of revenue.
+- **Revenue is concentrated in a few products.** The Gaming Laptop alone brings in $433K (about 18%), and the top 5 products account for about 58% of total revenue.
+- **Online is the largest channel** at $792K (32%), followed by Corporate Sales ($719K, 29%), Retail Store ($631K, 26%) and Marketplace ($310K, 13%).
+- **Corporate Sales has the highest order value.** Its average order is $2,158, about 2.1 times the Online average ($1,003), even though it has the fewest orders after Marketplace.
+- **Marketplace is the weakest channel.** It has the lowest share and the lowest average order value ($839).
+- **Regional revenue is fairly balanced.** North ($562K) and Central ($557K) lead with about 46% combined, and West is lowest at $421K. West has the fewest orders (330) but a high average order value ($1,277), so its gap is about order volume rather than deal size.
+- **Returning customers drive revenue.** They account for about 69% of revenue ($1.68M) and place orders about 15% larger than new customers ($1,284 vs. $1,116).
+- **Monthly revenue is volatile.** It ranges from $151K (July) to $274K (November), with other dips in May ($154K). Quarterly revenue is steadier ($569K to $653K), with Q2 and Q4 strongest.
+- **Discounts are heavily used.** About 86% of orders carry a discount, averaging 7.4%, which reduced revenue by about $199K (7.5% of list value).
+
+
+
+### 📁 ASOS Product Analysis
+Read full at **Repository:** [ASOS-Product-Analysis](https://github.com/KatherineBayan/ASOS-Product-Analysis)
+
+<img width="1182" height="784" alt="image" src="https://github.com/user-attachments/assets/cb34461a-b9aa-4fa7-91b2-ed77d6328d7d" />
+
+### Description
+
+Conducted a product availability and inventory analysis using ASOS product listing data to identify size-level stockouts, evaluate brand performance, and determine which products require inventory attention. The project involved data cleaning, product-level consolidation, stockout analysis, brand comparisons, and product prioritization. The findings were used to develop data-driven recommendations for inventory monitoring and stock management.
+
+### Goals
+
+- Measure the extent of size-level stockouts across ASOS product listings.
+- Identify sizes and products experiencing the greatest availability pressure.
+- Compare brands based on average product prices and stockout rates.
+- Prioritize products for inventory investigation using stockout rates and estimated exposure.
+- Develop recommendations to improve inventory monitoring and product availability.
+
+### Skills Used
+
+- **Python:** Data manipulation and analysis using Pandas.
+- **Data Cleaning:** Handling missing values, filtering records, and consolidating product listings.
+- **Exploratory Data Analysis (EDA):** Identifying patterns and trends in product availability.
+- **Data Visualization:** Creating charts and comparisons to communicate stockout patterns and brand performance.
+- **Business Analytics:** Interpreting inventory-related metrics and translating findings into business recommendations.
+- **Analytical Reporting:** Presenting results and actionable insights based on the data.
+
+### Results
+
+- Analyzed **9,708 initial records**, retaining **8,438 records** after data cleaning.
+- Found that **23.98% of recorded size options were sold out**, while **50.41% of products had at least one sold-out size**.
+- Identified **2XL - UK 16** as the size with the highest observed stockout rate at **43.86%**.
+- Consolidated the data into **525 unique products** and classified them into inventory priority groups:
+    - 109 high-priority products (20.76%)
+    - 50 medium-priority products (9.52%)
+    - 366 routine-monitoring products (69.71%)
+- Identified brands with relatively high average prices and elevated stockout rates, highlighting potential areas for inventory review.
+- Estimated a total stockout exposure proxy of **727,029.22**, calculated using listed product prices and the number of sold-out sizes. This represents potential exposure, not confirmed lost revenue.
+
 
 [Back to top](#katherine-nicole-r-bayan--portfolio)
 
